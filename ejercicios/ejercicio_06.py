@@ -4,7 +4,7 @@
 # Escribe tu código debajo de esta línea:
 
 colores = ["Rojo", "Azul", "Verde"]
-print(colores)
+print("Lista de colores:", colores)
 
 
 # Ejercicio 2: Crea una tupla con 2 coordenadas (ej. x, y) e imprímela.
@@ -12,14 +12,14 @@ print(colores)
 # Escribe tu código debajo de esta línea:
 
 coordenadas = (10, 20)
-print(coordenadas)
+print("Tupla de coordenadas:", coordenadas)
 
 
 # Ejercicio 3: Crea un conjunto (set) con 3 de tus frutas favoritas e imprímelo.
 # Escribe tu código debajo de esta línea:
 
 frutas = {"Manzana", "Fresa", "Mango"}
-print(frutas)
+print("Conjunto de frutas:", frutas)
 
 
 # Ejercicio 4: Crea un diccionario con la información de un libro ("titulo" y "autor") e imprímelo.
@@ -29,4 +29,4 @@ libro = {
     "titulo": "Cien años de soledad",
     "autor": "Gabriel García Márquez"
 }
-print(libro)
+print("Diccionario del libro:", libro)
